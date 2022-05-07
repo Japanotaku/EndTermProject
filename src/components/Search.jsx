@@ -9,7 +9,7 @@ Search = () =>
             <input className='searchInput' placeholder='3 310 468 объявлений'/>
             <input className='placeInput' placeholder='Весь Казахстан'/>
             <NavLink to="/items" className="ok1">
-                <div className='ok'>Поиск<i className="fa-solid fa-magnifying-glass"></i></div>
+                <div className='ok'>Поиск<i className="fa-solid fa-magnifying-glass"/></div>
             </NavLink>
         </div>
     );

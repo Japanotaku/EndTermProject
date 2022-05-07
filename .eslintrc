@@ -1,4 +1,3 @@
 {
-  "extends": ["airbnb/base"],
-  "eslint linebreak-style": ["error", "windows"]
+  "extends": ["airbnb/base"]
 }
